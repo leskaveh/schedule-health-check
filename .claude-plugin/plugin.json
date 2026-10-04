@@ -1,0 +1,17 @@
+{
+  "name": "schedule-health-check",
+  "version": "0.1.0",
+  "description": "Review a contractor's schedule or programme and draft review comments to send back. Reads a P6 XER export or a printed Gantt PDF.",
+  "author": {
+    "name": "Aziz M"
+  },
+  "license": "MIT",
+  "keywords": [
+    "primavera",
+    "p6",
+    "schedule",
+    "construction",
+    "project-controls",
+    "dcma"
+  ]
+}
